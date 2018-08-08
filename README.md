@@ -193,6 +193,64 @@ c++_bubblesort_overloading.cpp 函式重載
 接著再寫上函式的程碼樣板，又稱原型 接著再寫上函式的程碼樣板，又稱原型 (prototype)。
 函式原型的函式名稱即為函式樣板的名稱
 
+
+#############################################
+
+Hw3:
+定義一個鏈結串列反序列印(ex06 build-4 reverse.c)
+Hw4:
+鏈結串列-會員資料表 (ex08 member data.c)
+Hw5:
+字元排序 (chap03_ex2_sort_char.c)
+Hw6:
+搜尋法(字串) (chap03_ex4_search_char.c
+Hw7:
+河內塔-計算各圓盤被搬動多少次 (ex04_Hanoi Tower.c)
+Hw8:
+二元搜尋樹-電話簿 (Addressbook_Tree.c)
+Hw9:
+撲克牌發牌程式進階版(stack_card.c)
+Hw10:
+迷宮問題-自行設計一15x10迷宮(stack_maze_ex2.c)
+Hw11:
+二元搜尋樹C++改寫版(tree.c)
+
+Ex3:
+結構陣列印出各科平均 (chap01_ex1.c)	
+結構陣列 新增 查詢 修改 列出 計算平均 (chap01_ex2.c) 
+建立鏈結串列節點 )(ex01 build-1.c)
+Ex4:
+定義一個鏈結串列順序列印 (ex03 build-2 add 1.c) 
+定義一個鏈結串列反序列印(ex06 build-4 reverse.c)
+Ex5:
+插入鏈結串列節點	(ex07 interface i.c) 
+尋找鏈結串列節點 (ex07 interface i.c) 
+刪除鏈結串列節點 (ex07 interface i.c)
+Ex6:
+排序法與介面 (chap03_ex1_sort_num.c)	
+搜尋法(數字) (chap03_ex3_search_num.c)
+
+Ex7:
+遞迴,印出n~1 與 1~n (ex01_1-n.c) 
+遞迴,算出n!之值 (1*2*3*…*n) (ex03_n!.c) 
+河內塔-練習
+Ex8:
+建立一個基本二元樹 (Binarry_Tree.c) 
+前/中/後序走訪 (Binarry_Tree.c) 
+二元樹的搜尋 (Tree_LinearSearch.c) 
+二元搜尋樹 (BinarySearchTree.c)
+Ex9:
+撲克牌(stack_card.c) 
+迷宮問題-印出路徑座標(stack_maze_ex1.c)
+Ex10:
+導入C++
+Ex11:
+Template
+Ex12:
+
+
+
+
 template<樣板參數型態 樣板參數名 ,…其他樣板參數 >
 原型回傳態 函式名稱 (參數型態 原型參數名 ,...)
 {
