@@ -14,6 +14,8 @@ void fun(int a[][4][5])
 
 http://www.pythontutor.com/c.html#mode=edit
 
+https://jgirl.ddns.net/contests
+
 
 int i=10,k;
 int *ptr;
