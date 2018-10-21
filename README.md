@@ -12,6 +12,9 @@ for (i=0;i<3;i++)
 void fun(int a[][4])
 void fun(int a[][4][5])
 
+http://www.pythontutor.com/c.html#mode=edit
+
+
 int i=10,k;
 int *ptr;
 ptr=&i;//結構可用
